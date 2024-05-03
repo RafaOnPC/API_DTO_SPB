@@ -1,6 +1,6 @@
 ### 👉 Descripción
 
-El proyecto "ClubFut API" es una solución integral diseñada para la gestión eficiente de futbolistas en clubes de fútbol. Desarrollado utilizando Spring Boot, Microsoft SQL Server, Lombok, Spring Data JPA & Hibernate. esta API REST ofrece una plataforma robusta y escalable para administrar toda la información relevante sobre los jugadores de un club.
+El proyecto "ClubFut API" es una solución integral diseñada para la gestión eficiente de futbolistas en clubes de fútbol. Desarrollado utilizando Spring Boot, Microsoft SQL Server, Spring Data JPA, Hibernate & Lombook. esta API REST ofrece una plataforma robusta y escalable para administrar toda la información relevante sobre los jugadores de un club.
 
 ### 👉 Aspecto Destacado
 
